@@ -1,0 +1,31 @@
+html { font-size: 14px; }
+body {
+  width: 700px;
+  margin: 10;
+  padding: 10;
+}
+nav {
+  background-color: gray;
+  align-items: center;
+  margin: 0px; 
+  padding: 0px;
+  padding: 2rem;
+}
+article {
+  margin: 0;
+  padding: 10px 15px;
+}
+aside {
+  width: 240px;
+  float: right;
+  border: solid 1px;
+  margin: 10px;
+}
+section {
+  padding: 10px 20px;
+  width: 390px;
+  margin: 10;  
+}
+footer {
+  clear: both;
+}
